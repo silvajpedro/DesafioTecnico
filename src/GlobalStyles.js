@@ -1,4 +1,5 @@
 import styled, { createGlobalStyle } from "styled-components";
+// RESETANDO A ESTILIZAÇÃO DA PÁGINA E TODOS OS COMPONENTES
 
 export const GlobalStyles = createGlobalStyle`
 *{
